@@ -1,0 +1,2 @@
+# blog
+practicing laravel
